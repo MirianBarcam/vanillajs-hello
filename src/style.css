@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.container_excuse {
+    justify-content:center;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    font-size: large;
+    background-color: rgb(106, 184, 201);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.footer{
+    font-style: italic;
+    font-size: x-small
+}
+
